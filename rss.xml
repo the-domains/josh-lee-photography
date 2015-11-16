@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Josh Lee Photography]]></title>
         <description><![CDATA[Josh Lee Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/josh-lee-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 20:04:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 20:06:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/josh-lee-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sitting in a Japanese Garden]]></title>
+            <description><![CDATA[<article><h1>Sitting in a Japanese Garden</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0aef04-97e6-40ae-9f51-e1ac3cb34426.jpg"></article>]]></description>
+            <link>https://thegrid.ai/josh-lee-photography/sitting-in-a-japanese-garden/index.html</link>
+            <guid isPermaLink="false">2fe8a6a4-a4ba-4190-9025-f84cdbed057a</guid>
+            <pubDate>Mon, 16 Nov 2015 20:06:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Golden Gate Bridge]]></title>
             <description><![CDATA[<article><h1>The Golden Gate Bridge</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73992ddd-c59d-44ed-9182-e9f22019a7e9.jpg"></article>]]></description>
-            <link>undefinedthe-golden-gate-bridge/index.html</link>
+            <link>https://thegrid.ai/josh-lee-photography/the-golden-gate-bridge/index.html</link>
             <guid isPermaLink="false">c2fe7fcf-d586-4340-b55d-3c2e8511f13d</guid>
             <pubDate>Mon, 16 Nov 2015 20:04:15 GMT</pubDate>
         </item>
