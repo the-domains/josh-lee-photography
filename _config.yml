@@ -1,0 +1,23 @@
+name: Josh Lee Photography
+favicon: null
+layout_spectrum: 0.7975702018011361
+typography_spectrum: 0.42465620394796133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9431499843485653
+  lightness: 0.9828187560196966
+  saturation: 0.5814312046859413
+  rhythmicContrast: 0.8690172026399523
+purpose: []
